@@ -1,3 +1,21 @@
+
+Some notes
+==========
+
+This app built upon Glitch's [starter-react-router](https://starter-react-.glitch.me) and then went from there. Some notes:
+
+- New-to-me tech on this one includes:
+  - Redux
+  - React Table
+  - React Router 
+  - Exporting from Glitch to Github, then back to Glitch
+- The CSS didn't transfer from Glitch, like, at all. 
+
+- The notes below are from the original app! 
+
+Thanks,
+Jim
+
 Starter React Redux App on Glitch
 =================================
 
