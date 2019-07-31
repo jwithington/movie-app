@@ -11,7 +11,7 @@ To Run the app:
 
 ***
 
-This app built upon Glitch's [starter-react-router](https://starter-react-.glitch.me) and then went from there. Some notes:
+This app built upon Glitch's [starter-react-router](https://starter-react-.glitch.me) and then I went from there. Some notes:
 
 - New-to-me tech on this one includes:
   - Redux
