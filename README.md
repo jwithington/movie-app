@@ -2,6 +2,15 @@
 Some notes
 ==========
 
+To Run the app:
+
+1. Clone it
+2. Run npm install (typically I use yarn, but went with npm since Glitch seems to use it)
+3. Head to [http://localhost:58374/](http://localhost:58374/) to see your app
+4. Search movies until you can't search no more.
+
+***
+
 This app built upon Glitch's [starter-react-router](https://starter-react-.glitch.me) and then went from there. Some notes:
 
 - New-to-me tech on this one includes:
